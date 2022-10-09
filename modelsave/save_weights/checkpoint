@@ -1,0 +1,2 @@
+model_checkpoint_path: "discriminator_w2.ckpt"
+all_model_checkpoint_paths: "discriminator_w2.ckpt"
